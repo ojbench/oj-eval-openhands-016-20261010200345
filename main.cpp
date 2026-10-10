@@ -1,3 +1,4 @@
+// Author: OpenHands
 #include <bits/stdc++.h> // solution
 // Solution for Problem 016
 // Final version for submission
@@ -68,3 +69,4 @@ int main() {
 // End of program
 }
 // End of solution
+// Final comment added for compliance
